@@ -2,7 +2,7 @@
 <?php 
 function strip_out_styles($buffer)
 {
-  return preg_replace('/<style.*?\/style>>/', '', $content);
+  return preg_replace('/<style.*style>/', '', $buffer);
 }
 
 ob_start("strip_out_styles");
