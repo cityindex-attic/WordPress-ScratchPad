@@ -1,4 +1,4 @@
 Wordpress-Interview
 ===================
 
-db/dev_db.sql - admin user - admin/admin
+Please clone this repo and then add your sample code within a sub folder of the httpdocs folder. Once this is sone then please submit a pull request.
