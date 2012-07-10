@@ -1,0 +1,62 @@
+/* Pinterest "Pin It" Button Admin CSS */
+
+.form-table {
+    margin-bottom: 10px !important; 
+}
+
+.form-table td {
+    padding: 1px 10px;
+}
+
+.form-table label {
+    padding-left: 3px;
+}
+.form-table input[type="checkbox"] {
+    margin-right: 5px;
+	width: auto;
+}
+
+.form-table textarea {
+    line-height: 1.3em;
+    width: 350px;
+}
+
+.postbox .pib-hndle {
+	cursor: pointer;
+}
+
+.pib-admin-banner {
+	margin-bottom: 15px;
+}
+
+table#share_plugin_buttons tr td {
+    padding-right: 10px;
+    vertical-align: top;
+}
+
+#pib-custom-css {
+    width: 100%;
+}
+
+td.pib-pad-cell-top {
+	padding-top: 7px;
+}
+
+label.pib-plain-label {
+	margin: 0;
+	padding: 0;
+}
+
+.inside ul li .label {
+	vertical-align: top;
+}
+
+.submit-settings {
+	padding-bottom: 1.5em;
+}
+
+/* External link icon */
+a.external {
+    background: url(../img/icon-external-link.gif) center right no-repeat;
+    padding-right: 17px;
+}
