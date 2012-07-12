@@ -1,0 +1,97 @@
+#youtubeForm {
+	width: 400px;
+	padding: 10px 10px 15px 10px;
+}
+#youtubeForm h2 {
+	font-family: Tahoma
+	color: #000000;
+	margin: 10px 10px 10px 0px;
+	text-shadow: 0px 0px 1px #616161;
+}
+#youtubeForm input, #youtubeForm textarea {
+	width: 350px;
+	display: block;
+	margin-bottom: 5px;
+}
+#youtubeForm label {
+	font-weight: bold;
+	padding: 3px 3px 3px 0px;
+	display: block;
+}
+#youtubeForm #uploadMovie {
+	margin: 10px 10px 10px 0px;
+	width: 100px;
+}
+#youtubeForm .req {
+	color: #FF0000;
+	font-weight: bold;
+}
+#youtubeForm #result {
+	font-weight: bold;
+	font-size: 10px;
+	height: 16px;
+	width: 100%;
+}
+#contentHeader {
+	min-height: 200px;
+	font-size: 12px;
+	position: relative;
+}
+#featuredYoutube{
+    width: 386px;
+    heigh: 230px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+#uploadBox {
+	background: #000000;
+	box-shadow: 0px 3px 5px #616161;
+}
+#uploadBox .wrapper {
+	padding: 10px 10px 15px 18px;
+}
+#youtubeBox {
+	padding-top: 35px;
+}
+#youtubeBox h2 {
+	color: #FFF;
+	font-size: 26px;
+}
+.recentYoutube {
+	padding:15px 11px 10px 13px;
+	text-decoration: none;
+	float: left;
+	display: block;
+	border: 1px solid #000;
+}
+.recentYoutube:hover {
+	border-color: #EEEEEE;
+}
+#see-gallery li {
+	list-style: none;
+	padding: 0px;
+	text-transform: uppercase;
+}
+#see-gallery a {
+	color:#eee600;
+	font-family: "Open Sans", sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+}
+#youtubeGalleryContent {
+	width: 100%;
+	box-shadow: 0px 3px 4px #616161;
+	padding: 10px;
+}
+#youtubeGalleryContent h2 {
+	margin-bottom: 15px;
+}
+#youtubeGalleryContent .youtube-description {
+	width: 350px;
+	padding: 0px 10px 10px 15px;
+}
+#youtubeGalleryContent .youtubeEntry {
+	margin-bottom: 10px;
+	z-index: 0;
+} 
